@@ -1,0 +1,7 @@
+#MainFramework
+{
+color: #484848;
+	font: 12px "ËÎÌו";
+	border: 2px solid #b1b1b1;
+	border-radius: 3px;
+	}
